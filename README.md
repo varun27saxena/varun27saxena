@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;NIT+Warangal+%7C+B.Tech+CSE;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Varun+Saxena+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;ITM+Gwalior+%7C+B.Tech+CSE;ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+Computer+Vision)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=flat-square&label=Profile+Views" />
 
