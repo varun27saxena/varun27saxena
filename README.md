@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**varun27saxena/varun27saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;NIT+Warangal+%7C+B.Tech+CSE;Deep+Learning+%C2%B7+NLP+%C2%B7+Computer+Vision)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=flat-square&label=Profile+Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧠 About Me
+
+```python
+class Me:
+    name       = "Varun Saxena"
+    college    = "ITM Gwalior — B.Tech in Computer Science & Engineering"
+    interests  = ["Deep Learning", "NLP", "Computer Vision", "Generative AI"]
+    currently  = "Building AI systems that actually work in production"
+    reach_me   = "varun.saxena.dev27@gmail.com"
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+
+**Machine Learning & Tools**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=D00000)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logo=python&logoColor=11557C)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=4C72B0)
+![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=3F4F75)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat-square&logo=mlflow&logoColor=0194E2)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-0d1117?style=flat-square&logo=weightsandbiases&logoColor=FFBE00)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [📈 Stock Movement Predictor](#) | PyTorch · LSTM · PRAW · yfinance | 2.1M param attention model · 15K+ Reddit posts |
+| [🎨 Anime Face Generator (DCGAN)](#) | PyTorch · torchvision · Kaggle | 63K+ training images · 128×128 output |
+| [👗 Fashion Trend Analyzer](#) | ResNet50 · CLIP · PRAW · Pandas | 15K+ posts · 10+ clothing categories |
+| [📧 GMail MCP Assistant](#) | Python · MCP · Gmail API | 30+ tools · inbox analytics + reply heatmaps |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
+---
+
+### 📬 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:varun.saxena.dev27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varun-saxena-569599374/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varun27saxena)
+
+</div>
