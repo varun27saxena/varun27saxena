@@ -3,7 +3,7 @@
 <!-- Animated header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Varun+Saxena+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;ITM+Gwalior+%7C+B.Tech+CSE;ML+%C2%B7+DL+%C2%B7+NLP+%C2%B7+Computer+Vision)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=varun27saxena&color=58a6ff&style=flat-square&label=Visitors" />
 
 </div>
 
@@ -68,12 +68,12 @@ class Me:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varun27saxena&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun27saxena&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=varun27saxena&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </div>
 
 ---
