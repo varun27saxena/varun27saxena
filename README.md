@@ -67,15 +67,13 @@ class Me:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varun27saxena&show_icons=true&theme=github_dark" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun27saxena&layout=compact&theme=github_dark" />
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=varun27saxena&theme=github-dark-blue" />
 </div>
+
+
 
 
 ---
