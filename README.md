@@ -58,10 +58,10 @@ class Me:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [📈 Stock Movement Predictor](#) | PyTorch · LSTM · PRAW · yfinance | 2.1M param attention model · 15K+ Reddit posts |
-| [🎨 Anime Face Generator (DCGAN)](#) | PyTorch · torchvision · Kaggle | 63K+ training images · 128×128 output |
-| [👗 Fashion Trend Analyzer](#) | ResNet50 · CLIP · PRAW · Pandas | 15K+ posts · 10+ clothing categories |
-| [📧 GMail MCP Assistant](#) | Python · MCP · Gmail API | 30+ tools · inbox analytics + reply heatmaps |
+| 🧾 Vendor Invoice Intelligence Portal | Python · Scikit-Learn · SQLite · Streamlit · Pandas · Plotly | End-to-end ML platform · Freight cost prediction · Invoice risk detection · 97% R² regression model |
+| 🩺 Explainable Breast Cancer Diagnosis | Python · Scikit-Learn · SHAP · NumPy · Pandas · Matplotlib | Binary classification · SHAP Explainable AI · Feature selection (30→10) · 95%+ accuracy |
+| 🧬 Multi-Class Cancer Classification | Python · Scikit-Learn · PCA · NumPy · Pandas | 20,531 gene features · 5 cancer types · PCA analysis · Comparative study of 6 ML algorithms |
+| 🧠 Machine Learning From Scratch | Python · NumPy · Matplotlib | Linear Regression · Gradient Descent · Ridge · Lasso · Elastic Net · Algorithm implementations from scratch |
 
 ---
 
